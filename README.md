@@ -2,6 +2,9 @@ st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
 
+Comes with the Prepatch with the nord theme and the ability to scroll using
+Shift + mouse ou Shift + (PageUp||PageDowN)
+
 
 Requirements
 ------------
