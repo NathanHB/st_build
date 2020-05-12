@@ -28,6 +28,13 @@ the st terminfo entry with the following command:
 
 See the man page for additional details.
 
+Patch
+-----
+To Configure go on the config branch, make changes to config.def.h and merge it
+to master branch. To apply a patch make a branch for that patch apply the patch
+to that branch and finally merge it with the master branch.
+Once all your changes have been merged simple recompile.
+
 Credits
 -------
 Based on Aurélien APTEL <aurelien dot aptel at gmail dot com> bt source code.
